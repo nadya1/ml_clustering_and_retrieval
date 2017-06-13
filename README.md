@@ -1,6 +1,6 @@
 ## Machine Learning: Clustering and Retrieval
 
- - Coursera: https://goo.gl/YjJLO0
+ - Coursera: [ML-Clustring_&_Retrieval](https://goo.gl/YjJLO0) 
  - Created by: University of Washington
  - Taught by: Emily Fox & Carlos Guestrin
  
@@ -22,9 +22,9 @@
 ## iPython Notebooks
 
  - cd ml_clustering_retrieval/notebooks
- - All weekly summary & assignments from week_1 to week_6 
+ - All weekly summary & assignments from: [week_1 to week_6](https://gitlab.com/nadyaK/ml_clustering_and_retrieval/tree/master/notebooks) 
 
 ## Python Quizzes
 
  - cd ml_clustering_retrieval/notebooks
- - All weekly quizzes.py from week_1 to week_6
+ - All weekly quizzes.py from: week_1 to week_6
